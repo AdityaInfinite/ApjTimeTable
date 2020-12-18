@@ -1,0 +1,54 @@
+colgroup col.success {
+    background-color: #3E444A!important;
+    border-color: green!important;
+    color: black!important;
+}
+div.container div{
+    margin-bottom: 10px!important;
+    margin-top: 10px!important;
+}
+.jumboton , body{
+    margin: 0px;
+    width: 100%;
+    background-color: rgb(35, 38, 39);
+    padding: 30px;
+}
+body { 
+    padding-top: 0px;
+}
+.tableCon{
+    width: 100%;
+}
+#clock { 
+    font-size: large;
+    /* width: 700px;  */
+    /* margin: 200px;  */
+    text-align: center; 
+    border-radius: 20px; 
+    background-color: #484E53;
+    color: white;
+} 
+#nowNext{
+    font-size: large;
+    /* width: 700px;  */
+    /* margin: 200px;  */
+    text-align: center; 
+    vertical-align: middle;
+    border-radius: 20px; 
+    margin: auto;
+    padding: 10px;
+    background-color: #484E53;
+    color: white;
+}
+table{
+    margin: 0px!important;
+}
+body::-webkit-scrollbar{
+    width: 0.35rem;
+}
+body::-webkit-scrollbar-thumb{
+    background-color: #343A40;
+}
+body::-webkit-scrollbar-track{
+    background-color:rgb(35, 38, 39);
+}
